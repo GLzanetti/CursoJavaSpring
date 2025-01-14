@@ -1,0 +1,8 @@
+package OO.heranca.desafio;
+
+public interface Luxo {
+	
+	void ligarAr();
+	void desligarAr();
+	int nivelDoAr();
+}

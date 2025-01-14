@@ -1,0 +1,5 @@
+package OO.heranca.desafio;
+
+public interface Luxo {
+
+}
