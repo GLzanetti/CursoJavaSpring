@@ -11,7 +11,6 @@
     <fullyQualifiedTypeName name="classe.DesafiosClasse.Data"/>
     <fullyQualifiedTypeName name="classe.DesafiosClasse.DesafioPrimeiroTrauma"/>
     <fullyQualifiedTypeName name="classe.DesafiosClasse.Comida"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="javax.swing.text.html.HTMLEditorKit.InsertHTMLTextAction"/>
     <fullyQualifiedTypeName name="java.util.HashSet"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
@@ -37,4 +36,5 @@
     <fullyQualifiedTypeName name="java.nio.file.spi.FileSystemProvider"/>
     <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
     <fullyQualifiedTypeName name="java.util.function.BinaryOperator"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
 </qualifiedTypeNameHistroy>
