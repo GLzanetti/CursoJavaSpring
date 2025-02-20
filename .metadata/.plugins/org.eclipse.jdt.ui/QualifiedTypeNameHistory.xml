@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeEach"/>
-    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
-    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
-    <fullyQualifiedTypeName name="br.com.GLzanetti.cm.visao.TabuleiroConsole"/>
-    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="br.com.GLzanetti.cm.excecao.SairException"/>
-    <fullyQualifiedTypeName name="java.util.Iterator"/>
-    <fullyQualifiedTypeName name="br.com.GLzanetti.cm.excecao.ExplosaoException"/>
-    <fullyQualifiedTypeName name="generics.CaixaObjeto"/>
     <fullyQualifiedTypeName name="generics.Caixa"/>
     <fullyQualifiedTypeName name="generics.CaixaInt"/>
     <fullyQualifiedTypeName name="java.lang.Number"/>
@@ -28,8 +18,6 @@
     <fullyQualifiedTypeName name="padroes.observer.Porteiro"/>
     <fullyQualifiedTypeName name="br.com.GLzanetti.cm.modelo.Tabuleiro"/>
     <fullyQualifiedTypeName name="br.com.GLzanetti.cm.modelo.Campo"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.function.Consumer"/>
     <fullyQualifiedTypeName name="br.com.GLzanetti.cm.modelo.ResultadoEvento"/>
     <fullyQualifiedTypeName name="java.nio.file.spi.FileSystemProvider"/>
@@ -60,4 +48,16 @@
     <fullyQualifiedTypeName name="br.com.GLzanetti.calc.modelo.Memoria"/>
     <fullyQualifiedTypeName name="java.lang.Double"/>
     <fullyQualifiedTypeName name="br.com.GLzanetti.calc.modelo.Memoria.TipoComando"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="jdbc.FabricaConexao"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
 </qualifiedTypeNameHistroy>
